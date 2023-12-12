@@ -1,6 +1,6 @@
 # Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 29-11-2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name: K.SANTHAN KUMAR
-### Register Number: 23004568
+### Name: T.Thrishendra
+### Register Number: 23003501
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
